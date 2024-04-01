@@ -1,0 +1,20 @@
+* {
+  margin: 0px;
+  padding: 10px;
+}
+
+header {
+  padding: 5px;
+  display: flex;
+  background-color: burlywood;
+}
+
+main {
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+}
+
+footer {
+  background-color: cornflowerblue;
+}
